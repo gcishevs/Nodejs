@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "vesrion": "0.1.0",
+  "dependencies": {
+    "express": "^4.11.2",
+    "vash": "^0.7.12-1"
+  }
+}
