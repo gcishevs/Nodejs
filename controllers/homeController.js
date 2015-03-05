@@ -8,7 +8,7 @@
 			data.getNotesCategories(function (err, results) {
 				
 					res.render('index', {
-					title: 'Express + Vash',
+					title: 'The Board',
 					error: err,
 					categories: results
 				});
