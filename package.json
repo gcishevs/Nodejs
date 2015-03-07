@@ -3,6 +3,7 @@
   "vesrion": "0.1.0",
   "dependencies": {
     "express": "^4.11.2",
+    "mongodb": "^1.4.33",
     "vash": "^0.7.12-1"
   },
   "devDependencies": {
